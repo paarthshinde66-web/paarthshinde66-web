@@ -10,15 +10,11 @@ What I’m Interested In
 * Web application development
 * Backend development and databases
 * Building software that solves real problems
-
-Projects
-
-I’m working towards building practical projects with clear documentation, working features, and readable code.
-
+ 
 Currently Exploring
 
 * Web technologies
-* Database fundamentals
+* Database fundamentals 
 * Software development and problem-solving
 
 Connect
