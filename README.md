@@ -1,16 +1,26 @@
 ## Hi there 👋
+Hi, I’m Paarth Shinde 👋
 
-<!--
-**paarthshinde66-web/paarthshinde66-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I’m an Information Technology student from Navi Mumbai interested in building useful software and exploring practical applications of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m Interested In
+
+* Web application development
+* Backend development and databases
+* Building software that solves real problems
+
+Projects
+
+I’m working towards building practical projects with clear documentation, working features, and readable code.
+
+Currently Exploring
+
+* Web technologies
+* Database fundamentals
+* Software development and problem-solving
+
+Connect
+
+* GitHub: https://github.com/paarthshinde66-web
