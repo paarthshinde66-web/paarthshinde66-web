@@ -1,22 +1,49 @@
-## Hi there 👋
-Hi, I’m Paarth Shinde 👋
+<h1 align="center">Hey, I'm Paarth Shinde 👋</h1>
 
-IT Student | Aspiring Software Developer
+<h3 align="center">IT Student | Aspiring Software Developer</h3>
 
-I’m an Information Technology student from Navi Mumbai interested in building useful software and exploring practical applications of technology.
+<p align="center">
+  Learning by building, improving through practice, and exploring the world of software development.
+</p>
 
-What I’m Interested In
+---
 
-* Web application development
-* Backend development and databases
-* Building software that solves real problems
- 
-Currently Exploring
+## 👨‍💻 About Me
 
-* Web technologies
-* Database fundamentals 
-* Software development and problem-solving
+- 🎓 Information Technology student from Navi Mumbai, India
+- 💻 Interested in web development and software engineering
+- 🧠 Exploring programming, databases, and problem-solving
+- 🌱 Focused on strengthening my fundamentals and applying them in practical work
+- 🎯 Goal: Build useful software and grow into a skilled developer
 
-Connect
+## 🛠️ Tech Stack
 
-* GitHub: https://github.com/paarthshinde66-web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql&theme=dark" alt="HTML, CSS, JavaScript, Python, C and MySQL" />
+</p>
+
+## 📚 Areas I'm Exploring
+
+| Area | Focus |
+|---|---|
+| Web Development | HTML, CSS and JavaScript |
+| Programming | C and Python fundamentals |
+| Databases | SQL queries and MySQL |
+| Problem Solving | Logic and programming practice |
+
+## 🚀 My Goals
+
+- Strengthen my programming fundamentals
+- Improve my understanding of databases
+- Build and document practical projects
+- Learn to write clean, understandable code
+
+## 📌 What's Next?
+
+I'm working towards turning what I learn into practical projects. This profile will grow as I build, experiment, and improve.
+
+---
+
+<p align="center">
+  <i>Learning consistently. Building with purpose.</i>
+</p>
