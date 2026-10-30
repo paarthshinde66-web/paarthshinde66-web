@@ -22,7 +22,7 @@
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./YOUR-PHOTO-NAME.jpeg"
+      <img src="./IMG_5166.JPG.jpeg"
      width="240"
      height="280"
      alt="Paarth"
