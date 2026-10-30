@@ -8,42 +8,21 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-- 🎓 Information Technology student from Navi Mumbai, India
-- 💻 Interested in web development and software engineering
-- 🧠 Exploring programming, databases, and problem-solving
-- 🌱 Focused on strengthening my fundamentals and applying them in practical work
-- 🎯 Goal: Build useful software and grow into a skilled developer
+<table>
+  <tr>
+    <td width="60%" valign="middle">
 
-## 🛠️ Tech Stack
+- 🎓 Information Technology student from Navi Mumbai
+- 💻 Interested in Web Development
+- 🌱 Learning JavaScript, Python, C and SQL
+- 🚀 Building practical skills through projects
+- 🎯 Working towards becoming a skilled developer
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql&theme=dark" alt="HTML, CSS, JavaScript, Python, C and MySQL" />
-</p>
-
-## 📚 Areas I'm Exploring
-
-| Area | Focus |
-|---|---|
-| Web Development | HTML, CSS and JavaScript |
-| Programming | C and Python fundamentals |
-| Databases | SQL queries and MySQL |
-| Problem Solving | Logic and programming practice |
-
-## 🚀 My Goals
-
-- Strengthen my programming fundamentals
-- Improve my understanding of databases
-- Build and document practical projects
-- Learn to write clean, understandable code
-
-## 📌 What's Next?
-
-I'm working towards turning what I learn into practical projects. This profile will grow as I build, experiment, and improve.
-
----
-
-<p align="center">
-  <i>Learning consistently. Building with purpose.</i>
-</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="./YOUR-PHOTO-NAME.jpeg" width="220" alt="Paarth">
+    </td>
+  </tr>
+</table>
