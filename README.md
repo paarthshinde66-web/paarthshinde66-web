@@ -21,8 +21,12 @@
 - 🎯 Working towards becoming a skilled developer
 
     </td>
-    <td width="40%" align="center">
-      <img src="./IMG_5166.JPG.jpeg" width="220" alt="Paarth">
+    <td width="40%" align="center" valign="middle">
+      <img src="./YOUR-PHOTO-NAME.jpeg"
+     width="240"
+     height="280"
+     alt="Paarth"
+     style="object-fit: cover; border-radius: 15px;">
     </td>
   </tr>
 </table>
