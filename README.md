@@ -20,7 +20,7 @@
 -  Learning JavaScript, Python, C and SQL
 -  Building practical skills through projects
 -  Working towards becoming a skilled developer
--  REACH OUT IN - paarthshinde66@gmail.com
+-  Reach out at- paarthshinde66@gmail.com
 
     </td>
     <td width="40%" align="center" valign="middle">
