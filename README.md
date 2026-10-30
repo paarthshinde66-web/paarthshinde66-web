@@ -22,7 +22,7 @@
 
     </td>
     <td width="40%" align="center">
-      <img src="./YOUR-PHOTO-NAME.jpeg" width="220" alt="Paarth">
+      <img src="./IMG_5166.JPG.jpeg" width="220" alt="Paarth">
     </td>
   </tr>
 </table>
