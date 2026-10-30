@@ -5,8 +5,9 @@
 <p align="center">
   Learning by building, improving through practice, and exploring the world of software development.
 </p>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=9B7BFF&center=true&vCenter=true&width=650&lines=Learning+Web+Development;Exploring+JavaScript+%26+Python;Practicing+HTML+%26+CSS;Learning+SQL+%26+MySQL;Building+Projects+One+Step+at+a+Time" />
+</p>
 
 <h2>👨‍💻 About Me</h2>
 
@@ -14,11 +15,11 @@
   <tr>
     <td width="60%" valign="middle">
 
-- 🎓 Information Technology student from Navi Mumbai
-- 💻 Interested in Web Development
-- 🌱 Learning JavaScript, Python, C and SQL
-- 🚀 Building practical skills through projects
-- 🎯 Working towards becoming a skilled developer
+-  Information Technology student from Navi Mumbai
+-  Interested in Web Development
+-  Learning JavaScript, Python, C and SQL
+-  Building practical skills through projects
+-  Working towards becoming a skilled developer
 
     </td>
     <td width="40%" align="center" valign="middle">
